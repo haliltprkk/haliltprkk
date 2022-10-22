@@ -1,9 +1,9 @@
 <h3>👋 Hi, I’m Toprak</h3>
 
-- 🧑🏻‍💻 Current Job: I am working as Mobile Lead in a software development agency in Turkey
-- 👀 Proficiency: I’m interested in native android development and flutter
+- 🧑🏻‍💻 Current Job: Mobile Lead in a software development agency in Turkey
+- 👀 Proficiency: Native Android and Flutter
 - ℹ️ Experience: I finished my bachelor's degree in Computer Engineering, I have been dealing with Android since 2017 and I have been working as an android developer full-time since 2018. In addition to this, I have been actively developing flutter since 2020.
-- 🌱 Research: I’m currently improving myself about clean architecture, state management, testing etc.
+- 🌱 Research: Clean Architecture, State Management, Testing etc.
 - 🎉 Fun Fact: I love music (almost every genre)
 - 📫 Find me: ⤵️
 
